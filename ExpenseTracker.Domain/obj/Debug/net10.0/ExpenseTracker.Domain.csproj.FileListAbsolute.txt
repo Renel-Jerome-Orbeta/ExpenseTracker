@@ -1,0 +1,11 @@
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Domain\bin\Debug\net10.0\ExpenseTracker.Domain.deps.json
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Domain\bin\Debug\net10.0\ExpenseTracker.Domain.dll
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Domain\bin\Debug\net10.0\ExpenseTracker.Domain.pdb
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Domain\obj\Debug\net10.0\ExpenseTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Domain\obj\Debug\net10.0\ExpenseTracker.Domain.AssemblyInfoInputs.cache
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Domain\obj\Debug\net10.0\ExpenseTracker.Domain.AssemblyInfo.cs
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Domain\obj\Debug\net10.0\ExpenseTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Domain\obj\Debug\net10.0\ExpenseTracker.Domain.dll
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Domain\obj\Debug\net10.0\refint\ExpenseTracker.Domain.dll
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Domain\obj\Debug\net10.0\ExpenseTracker.Domain.pdb
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Domain\obj\Debug\net10.0\ref\ExpenseTracker.Domain.dll

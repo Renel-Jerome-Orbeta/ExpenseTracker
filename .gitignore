@@ -1,0 +1,8 @@
+# Generated CLI export files
+transactions-*.csv
+transactions-*.json
+*-2026-*.csv
+*-2026-*.json
+
+# Optional: ignore local runtime JSON data if you don't want sample data committed
+# transactions.json

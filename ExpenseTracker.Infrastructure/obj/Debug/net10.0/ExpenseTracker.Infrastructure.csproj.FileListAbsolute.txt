@@ -1,0 +1,15 @@
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Infrastructure\bin\Debug\net10.0\ExpenseTracker.Infrastructure.deps.json
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Infrastructure\bin\Debug\net10.0\ExpenseTracker.Infrastructure.dll
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Infrastructure\bin\Debug\net10.0\ExpenseTracker.Infrastructure.pdb
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Infrastructure\bin\Debug\net10.0\ExpenseTracker.Domain.dll
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Infrastructure\bin\Debug\net10.0\ExpenseTracker.Domain.pdb
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net10.0\ExpenseTracker.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net10.0\ExpenseTracker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net10.0\ExpenseTracker.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net10.0\ExpenseTracker.Infrastructure.AssemblyInfo.cs
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net10.0\ExpenseTracker.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net10.0\ExpenseT.546500FC.Up2Date
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net10.0\ExpenseTracker.Infrastructure.dll
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net10.0\refint\ExpenseTracker.Infrastructure.dll
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net10.0\ExpenseTracker.Infrastructure.pdb
+C:\Users\Riggs\Documents\Projects\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net10.0\ref\ExpenseTracker.Infrastructure.dll
