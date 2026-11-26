@@ -3,4 +3,5 @@ transactions-*.csv
 transactions-*.json
 *-2026-*.csv
 *-2026-*.json
-
+[Bb]in/
+[Oo]bj/
